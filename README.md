@@ -1,4 +1,4 @@
-# repo-prueba
+# Repositorio uno
 Primer repo creado en git-hub
 
 ## descripción
